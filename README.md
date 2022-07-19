@@ -1,7 +1,5 @@
 # cv
-<!DOCTYPE html>
   <html lang="en" dir="ltr">
-
   <head>
     <meta charset="utf-8">
     <title> venu sri </title>
@@ -10,7 +8,7 @@
     <table cellspacing="20">
       <tr>
         <td >
-          <img src="https://github.com/VenuSriss/cv/blob/main/venu-modified.png" /height="200" width="200">
+          <img src="https://github.com/VenuSriss/cv/blob/main/venu-modified.png" height="200" width="200">
         </td>
         <td>
           <h1 >VENU SRI
