@@ -9,7 +9,6 @@
       <tr>
         <td >
         <img src="https://github.com/VenuSriss/cv/blob/main/venu-modified.png?style=flat-square" alt="github-cv" /height="200" width="200">
-          #<img src="https://github.com/VenuSriss/cv/blob/main/venu-modified.png" height="200" width="200">
         </td>
         <td>
           <h1 >VENU SRI
@@ -110,7 +109,6 @@
     </table>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
     <hr />
-     
     <a href="https://github.com/VenuSriss/cv/blob/main/hello.html">contact me</a>
   </body>
   </html>
