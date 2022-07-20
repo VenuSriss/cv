@@ -2,12 +2,13 @@
   <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title> venu sri </title>
   </head>
   <body>
     <table cellspacing="20">
       <tr>
         <td >
+          ![venu-modified](https://user-images.githubusercontent.com/100410906/179902623-987a5cd2-cace-465d-a5c2-ea6be53769d5.png)
+
         <img src="https://github.com/VenuSriss/cv/blob/main/venu-modified.png" alt="github-cv" /height="200" width="200">
         </td>
         <td>
