@@ -7,7 +7,7 @@
     <table cellspacing="20">
       <tr>
         <td >
-          ![venu-modified](https://user-images.githubusercontent.com/100410906/179903382-a6efe193-21ab-473b-9d32-ef41498a2254.png)
+           <img src="venu-modified.png" /height="200" width="200">
         </td>
         <td>
           <h1 >VENU SRI
