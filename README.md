@@ -8,9 +8,7 @@
     <table cellspacing="20">
       <tr>
         <td >
-          ![venu-modified](https://user-images.githubusercontent.com/100410906/179902245-b72b4a07-d22a-41ad-aa5d-60ee7f09440b.png)
-
-        <img src="[https://github.com/VenuSriss/cv/blob/main/venu-modified.png](https://github.com/VenuSriss/cv/blob/main/venu-modified.png)" alt="github-cv" /height="200" width="200">
+        <img src="https://github.com/VenuSriss/cv/blob/main/venu-modified.png" alt="github-cv" /height="200" width="200">
         </td>
         <td>
           <h1 >VENU SRI
