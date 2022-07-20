@@ -108,6 +108,7 @@
     </table>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
     <hr />
+    <a href="hello.html">Contact me</a>
     <a href="https://github.com/VenuSriss/cv/blob/main/hello.html"  target="blank">contact me</a>
   </body>
   </html>
